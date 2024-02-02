@@ -1,24 +1,24 @@
 # Shreya-Kanchan
-Hello world! I'm Shreya
+Hello world! I'm Shreya...
 
 
 ✨ Skills
 
-◼ Languages: C, C++, Python, Java, SQL, HTML, CSS
+  ◼ Languages: C, C++, Python, Java, SQL, HTML, CSS
 
-◼ Databases: MySQL, MongoDB, Sybase
+  ◼ Databases: MySQL, MongoDB, Sybase
 
-◼ Tools: Git, Jenkins, Maven, AWS, Docker
+  ◼ Tools: Git, Jenkins, Maven, AWS, Docker
 
-◼ Cloud automation: Terraform, Packer, Chef
+  ◼ Cloud automation: Terraform, Packer, Chef
 
 
 
 📞 Contact me
 
-Email: shreyasiddapura138@gmail.com
+  Email: shreyasiddapura138@gmail.com
 
-LinkedIn: https://www.linkedin.com/in/shreya-kanchan-954842212/
+  LinkedIn: https://www.linkedin.com/in/shreya-kanchan-954842212/
 
 
 
