@@ -1,6 +1,7 @@
 # Shreya-Kanchan
 Hello world! I'm Shreya
 
+
 ✨ Skills
 
 ◼ Languages: C, C++, Python, Java, SQL, HTML, CSS
@@ -12,9 +13,12 @@ Hello world! I'm Shreya
 ◼ Cloud automation: Terraform, Packer, Chef
 
 
+
 📞 Contact me
 
 Email: shreyasiddapura138@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/shreya-kanchan-954842212/
 
 
 
