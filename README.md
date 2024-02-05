@@ -18,7 +18,7 @@ Hello world! I'm Shreya...
 
     Email: shreyasiddapura138@gmail.com
 
-    LinkedIn: (https://shorturl.at/tK029)
+    LinkedIn: [https://shorturl.at/tK029](https://shorturl.at/tK029)
     
 
 
