@@ -18,7 +18,8 @@ Hello world! I'm Shreya...
 
     Email: shreyasiddapura138@gmail.com
 
-    LinkedIn: https://www.linkedin.com/in/shreya-kanchan-954842212/
+    LinkedIn: (https://shorturl.at/tK029)
+    
 
 
 
